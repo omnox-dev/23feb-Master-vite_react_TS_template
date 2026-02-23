@@ -12,6 +12,14 @@ dist
 dist-ssr
 *.local
 
+# Documentation and Reports
+docs/
+*.tex
+*.pdf
+
+# Design Templates
+*.html
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
