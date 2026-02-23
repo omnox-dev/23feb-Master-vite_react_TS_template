@@ -23,4 +23,5 @@ npm run dev
 Navigate to `http://localhost:5173` to see the live system skeleton.
 
 ---
-**Lead Architect:** GitHub Copilot
+**Lead Architect:** omnox-dev
+
